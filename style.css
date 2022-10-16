@@ -1,0 +1,28 @@
+.logo{
+    height: 150px !important;
+    width: 200px;
+}
+/* .card-body{
+    background-color: darkgreen;
+    opacity: 0.8;
+} */
+body{
+    background-color:#F3F4F4 !important;
+    
+}
+.btn1{
+    border: 1px solid blue;
+    border-radius: 10px 10px;
+    color :white;
+}
+.card:hover{
+    border: 5px;
+    background-color:darkgreen;
+    transition: 500ms linear;
+   
+}
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-style: italic;
+}
